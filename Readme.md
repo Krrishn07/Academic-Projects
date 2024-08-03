@@ -11,7 +11,8 @@
 
 ---
 
-<h2 style="color:orange;">🔭 About Me</h2>
+<color>🔭 About Me </color>
+<color> #FFA500 </color>
 
 - 🌟 **Creative Developer** passionate about crafting innovative solutions
 - 🎓 **B.Tech Graduate** in Information Science
