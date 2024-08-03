@@ -11,8 +11,7 @@
 
 ---
 
-<color>🔭 About Me </color>
-<color> #FFA500 </color>
+<h2>🔭 About Me </h2>
 
 - 🌟 **Creative Developer** passionate about crafting innovative solutions
 - 🎓 **B.Tech Graduate** in Information Science
@@ -22,7 +21,7 @@
 
 ---
 
-<h2 style="color:orange;">🛠️ Skills & Technologies</h2>
+<h2 style="color:orange">🛠️ Skills & Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-orange?style=flat-square&logo=python&logoColor=black" />
