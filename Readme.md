@@ -1,6 +1,6 @@
-![Header](https://raw.githubusercontent.com/username/username/master/header.png)
+![Header](https://raw.githubusercontent.com/username/Krrishn07/master/header.png)
 
-![Hello, World! 🧡 I'm Your Name!](https://svgshare.com/i/ZwX.svg)
+<h1 align="center" style="color:orange;">Hello, World! 🧡 I'm Bal Kishan Reddy!</h1>
 
 <p align="center">
   <a href="https://github.com/username"><img src="https://img.shields.io/github/followers/username?label=Follow&style=social&color=orange"></a>
@@ -11,7 +11,7 @@
 
 ---
 
-![🔭 About Me](https://svgshare.com/i/Zw0.svg)
+<h2 style="color:orange;">🔭 About Me</h2>
 
 - 🌟 **Creative Developer** passionate about crafting innovative solutions
 - 🎓 **B.Tech Graduate** in Information Science
@@ -21,7 +21,7 @@
 
 ---
 
-![🛠️ Skills & Technologies](https://svgshare.com/i/Zw1.svg)
+<h2 style="color:orange;">🛠️ Skills & Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-orange?style=flat-square&logo=python&logoColor=black" />
@@ -38,7 +38,7 @@
 
 ---
 
-![🌈 Themes & Inspiration](https://svgshare.com/i/Zw2.svg)
+<h2 style="color:orange;">🌈 Themes & Inspiration</h2>
 
 - **☁️ Cloud Computing**: Always exploring new cloud technologies to build scalable solutions.
 - **🔒 Cyber Security**: Focused on creating secure systems to protect valuable data.
@@ -47,7 +47,7 @@
 
 ---
 
-![🌐 Explore My Projects](https://svgshare.com/i/Zw3.svg)
+<h2 style="color:orange;">🌐 Explore My Projects</h2>
 
 | 🚀 Project Name | 🌟 Description | 🔗 Repo |
 |:--------------:|:-------------:|:------:|
@@ -57,17 +57,17 @@
 
 ---
 
-![📊 GitHub Stats](https://svgshare.com/i/Zw4.svg)
+<h2 style="color:orange;">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krrishn07&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krrishn07&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Krrishn07&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-![✍️ Latest Blog Posts](https://svgshare.com/i/Zw5.svg)
+<h2 style="color:orange;">✍️ Latest Blog Posts</h2>
 
 - **[Understanding Network Packet Analysis](https://medium.com/@username/understanding-network-packet-analysis-5b9a9b7c9c2f)** - A step-by-step guide for beginners
 - **[The Art of Image Encryption](https://medium.com/@username/the-art-of-image-encryption-f3c8a4d7a9a3)** - Advanced techniques in secure image processing
@@ -75,7 +75,7 @@
 
 ---
 
-![🎮 Fun Facts & Hobbies](https://svgshare.com/i/Zw6.svg)
+<h2 style="color:orange;">🎮 Fun Facts & Hobbies</h2>
 
 - **🎨 Graphic Design**: Skilled in crafting visually stunning graphics and animations.
 - **🎸 Guitar**: Enjoy playing guitar and creating music in my spare time.
@@ -84,7 +84,7 @@
 
 ---
 
-![🗺️ Let's Connect](https://svgshare.com/i/Zw7.svg)
+<h2 style="color:orange;">🗺️ Let's Connect</h2>
 
 - **[GitHub](https://github.com/username)** - Explore my repositories and contributions
 - **[LinkedIn](https://linkedin.com/in/username)** - Let's connect and collaborate
