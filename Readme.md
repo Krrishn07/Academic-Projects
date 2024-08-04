@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/username"><img src="https://img.shields.io/github/followers/username?label=Follow&style=social&color=orange"></a>
-  <a href="https://www.linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-Connect-orange?style=flat-square&logo=linkedin&logoColor=black"></a>
-  <a href="https://twitter.com/username"><img src="https://img.shields.io/twitter/follow/username?style=social&color=orange"></a>
-  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=flat-square&logo=gmail&logoColor=black"></a>
+  <a href="https://github.com/Krrishn07"><img src="https://img.shields.io/github/followers/username?label=Follow&style=social&color=orange"></a>
+  <a href="https://www.linkedin.com/in/bal-kishan-reddy-6360/"><img src="https://img.shields.io/badge/LinkedIn-Connect-orange?style=flat-square&logo=linkedin&logoColor=black"></a>
+  <a href="https://twitter.com/MarbalReddy"><img src="https://img.shields.io/twitter/follow/username?style=social&color=orange"></a>
+  <a href="mailto:krrishnreddybkr07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-orange?style=flat-square&logo=gmail&logoColor=black"></a>
 </p>
 
 
 
 <h2>🔭 About Me</h2>
 
-- 🌟 **Creative Developer** passionate about crafting innovative solutions
-- 🎓 **B.Tech Graduate** in Information Science
-- 🎯 **Aspiring Google Cloud Expert** aiming to excel in the tech world
+- 🌟 Creative Developer passionate about crafting innovative solutions
+- 🎓 B.Tech Graduate in Information Science
+- 🎯 Aspiring Google Cloud Trainee aiming to excel in the tech world
 - 🧑‍💻 Love contributing to open-source projects and collaborating with fellow tech enthusiasts
-- 🌍 **Open to remote, on-site, and hybrid roles**
+- 🌍 Open to remote, on-site, and hybrid roles
 
 
 
@@ -36,6 +36,9 @@
   <img src="https://img.shields.io/badge/-English%20Language-orange?style=flat-square&logo=british-airways&logoColor=black" />
 </p>
 
+[![An image of @krrishn075's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krrishn075)](https://holopin.io/@krrishn075)
+
+[![Alt text](https://www.credly.com/badges/12be925d-deb5-42dd-b9e0-4e9a25cf4da5/public_url)]
 
 
 <h2>🌈 Themes & Inspiration</h2>
@@ -43,8 +46,7 @@
 - **☁️ Cloud Computing**: Always exploring new cloud technologies to build scalable solutions.
 - **🔒 Cyber Security**: Focused on creating secure systems to protect valuable data.
 - **🎨 Graphic Design & Animation**: Designing visually appealing graphics and animations to enhance user experiences.
-- **🎸 Music Enthusiast**: Passionate about playing guitar and exploring the world of acoustics.
-
+  
 
 
 <h2>🌐 Explore My Projects</h2>
